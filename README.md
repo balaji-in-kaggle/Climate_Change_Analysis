@@ -22,6 +22,7 @@ This project presents an in-depth data analysis and time series forecasting stud
   - Final model: **SARIMAX**, chosen based on performance and reliability.
 - **Hypothesis Testing:** Revealed that global warming follows a **quadratic trend** (accelerating change) rather than a constant rate.
 - **Change Point Detection (CPD):** Identified a significant acceleration in global warming **from 1989 to 2024** using CPD techniques.
+- Temperature trend ![temperature trend](https://github.com/balaji-in-kaggle/Climate_Change_Analysis/blob/main/temperature%20trend.png)
 
 ---
 
