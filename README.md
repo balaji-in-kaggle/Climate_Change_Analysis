@@ -35,6 +35,9 @@ This project primarily uses two data sources
 
   ![CO2 Correlation](https://github.com/balaji-in-kaggle/Climate_Change_Analysis/blob/main/image/CO2%20Correlation.png)
 
----
 
-## 📂 Project Structure
+## Tableau Dashboard
+Key insights and visualizations from this analysis have been published to Tableau Public, providing an interactive overview of global temperature anomalies, CO₂ emissions, and long-term climate trends for easy exploration and sharing. [Tableau Dashboard](https://public.tableau.com/app/profile/balaji.r7633/viz/NASA_1_17422296850330/Dashboard1)
+
+## Contact
+For any questions, suggestions, or feedback, feel free to open an issue in this GitHub repository.
